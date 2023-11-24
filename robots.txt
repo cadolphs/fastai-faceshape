@@ -1,0 +1,1 @@
+Sitemap: https://cadolphs.github.io/fastai-faceshape/sitemap.xml
